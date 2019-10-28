@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "LEGIT WAYS TO EARN MONEY ONLINE.html",
+    "currentPage": "index.html",
     "versionFirst": "3.5.1",
     "versionPublish": "4.11.2",
     "name": "Blog-Template",
@@ -36,7 +36,7 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
-    "uniqCompNum": 57
+    "uniqCompNum": 60
   },
   "pages": {
     "index.html": {
@@ -210,6 +210,33 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "socialFacebook": true,
+            "postsNumber": 5,
+            "socialGoogle": false,
+            "socialDisqus": false,
+            "shortName": "",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>",
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-1n"
+        },
+        {
           "_inherit": "social-buttons1",
           "_styles": {
             ".mbr-section-title, .btn-social": {
@@ -292,7 +319,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://whatsapp.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>SHARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://whatsapp.com\" target=\"_blank\">WHATSAPP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://facebook.com\" target=\"_blank\" aria-expanded=\"false\">FACEBOOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://whatsapp.com\" target=\"_blank\" aria-expanded=\"false\">TWITTER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://whatsapp.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>SHARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://whatsapp.com\" target=\"_blank\">WHATSAPP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://facebook.com\" target=\"_blank\" aria-expanded=\"false\">FACEBOOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://whatsapp.com\" target=\"_blank\" aria-expanded=\"false\">TWITTER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HELP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -454,7 +481,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://whatsapp.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>SHARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://whatsapp.com\" target=\"_blank\">WHATSAPP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://facebook.com\" target=\"_blank\" aria-expanded=\"false\">FACEBOOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://whatsapp.com\" target=\"_blank\" aria-expanded=\"false\">TWITTER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://whatsapp.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>SHARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://whatsapp.com\" target=\"_blank\">WHATSAPP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://facebook.com\" target=\"_blank\" aria-expanded=\"false\">FACEBOOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://whatsapp.com\" target=\"_blank\" aria-expanded=\"false\">TWITTER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HELP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -687,7 +714,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://whatsapp.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>SHARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://whatsapp.com\" target=\"_blank\">WHATSAPP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://facebook.com\" target=\"_blank\" aria-expanded=\"false\">FACEBOOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://whatsapp.com\" target=\"_blank\" aria-expanded=\"false\">TWITTER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://whatsapp.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>SHARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://whatsapp.com\" target=\"_blank\">WHATSAPP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://facebook.com\" target=\"_blank\" aria-expanded=\"false\">FACEBOOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://whatsapp.com\" target=\"_blank\" aria-expanded=\"false\">TWITTER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HELP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -946,7 +973,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://whatsapp.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>SHARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://whatsapp.com\" target=\"_blank\">WHATSAPP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://facebook.com\" target=\"_blank\" aria-expanded=\"false\">FACEBOOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://whatsapp.com\" target=\"_blank\" aria-expanded=\"false\">TWITTER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://whatsapp.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>SHARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://whatsapp.com\" target=\"_blank\">WHATSAPP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://facebook.com\" target=\"_blank\" aria-expanded=\"false\">FACEBOOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://whatsapp.com\" target=\"_blank\" aria-expanded=\"false\">TWITTER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HELP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1205,7 +1232,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://whatsapp.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>SHARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://whatsapp.com\" target=\"_blank\">WHATSAPP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://facebook.com\" target=\"_blank\" aria-expanded=\"false\">FACEBOOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://whatsapp.com\" target=\"_blank\" aria-expanded=\"false\">TWITTER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://whatsapp.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>SHARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://whatsapp.com\" target=\"_blank\">WHATSAPP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://facebook.com\" target=\"_blank\" aria-expanded=\"false\">FACEBOOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://whatsapp.com\" target=\"_blank\" aria-expanded=\"false\">TWITTER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HELP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1406,7 +1433,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://whatsapp.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>SHARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://whatsapp.com\" target=\"_blank\">WHATSAPP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://facebook.com\" target=\"_blank\" aria-expanded=\"false\">FACEBOOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://whatsapp.com\" target=\"_blank\" aria-expanded=\"false\">TWITTER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://whatsapp.com\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>SHARE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://whatsapp.com\" target=\"_blank\">WHATSAPP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://facebook.com\" target=\"_blank\" aria-expanded=\"false\">FACEBOOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://whatsapp.com\" target=\"_blank\" aria-expanded=\"false\">TWITTER</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HELP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
