@@ -344,7 +344,9 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -356,13 +358,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -510,7 +512,9 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -522,13 +526,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -774,7 +778,9 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -786,13 +792,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1064,7 +1070,9 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -1076,13 +1084,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1354,7 +1362,9 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -1366,13 +1376,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1559,7 +1569,9 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -1571,13 +1583,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1734,7 +1746,9 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -1746,13 +1760,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1880,91 +1894,6 @@
       },
       "components": [
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "7",
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "title": "How to get YouTube subscribers and Views Fast to start Monetizing your Channel\n<div>\n</div>",
-          "meta": "&nbsp;October 29, 2019",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1x"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p><span style=\"font-size: 1.07rem;\">We all know that YouTube pays you money (It’s why Youtubers makes an effort to get you to like their videos and subscribe to their channel). YouTube pays you from the ads that are displayed on your videos uploaded to your YouTube Channels, but only if you sign-up for their monetization partnership first. Below is a step by step instruction to help you get started and monetize your YouTube Channel. But before you are accepted into the partnership program your channel first needs to be verified by YouTube and your channel needs to first gain at least 1000 subscribers and 4000+ hours in watch times. Once you reached those numbers YouTube will review your channel (usually takes around 30 days) and then it will start placing ads on your YouTube videos and you’ll start earning some moneys for life.</span><br></p><p>\n</p><p><br></p><p><b>Right, so now the first step is to turn on or Enable monetization on your channel.\n</b></p><p>\n</p><p><br></p><p><b>4 Steps To Enable Monetization on YouTube\n</b></p><p>You first need to sign-in to YouTube with your verified google account, then you’ll need to upload at least one video. Then follow the steps below to enable monetization for your channel.\n</p><p>1.\tClick on My Channel in the drop down after you click on your icon in the top right corner of the screen.\n</p><p>2.\tFrom this screen, click on YouTube Studio (beta)\n</p><p>3.\tOnce you’re in YouTube Studio, find the Channel menu on left-hand side of your screen, and click on Other Features &gt; Monetization.\n</p><p>4.\tFinally, in the Monetization window, click Start.\n</p><p><br></p><p>Once you’ve done this, you’ve accepted the YouTube Partner Program terms. You just have to sign up for AdSense or connect an existing account. If you don’t have an AdSense account yet don’t worry you will be automatically redirected by YouTube to the AdSense website where you can sign-up and at the same time link your YouTube channel with your AdSense. AdSense is what ultimately allows your channel to earn money. YouTube will then prompt you to set your monetization preferences. Don’t worry too much about this step—you can change your monetization preferences later and customize it so that you’re only monetizing certain videos. \n</p><p>\n</p><p><br></p><p>Now the next step to earning money from YouTube is to Qualify your channel.\n</p><p><br></p><p><b>Qualifying for YouTube Monetization\n</b></p><p>First, to qualify for monetization, your channel has to have at least 4,000 hours of watch time within the last year and at least 1,000 subscribers. This policy went into effect at the beginning of 2018 and is another way for YouTube to prioritize watch time (as opposed to view count, which was the platform’s previous focus). “Watch time” is the total number of hours users have spent watching your channel’s videos. Since YouTube ultimately wants to keep users on the platform for as long as possible, watch time has become more and more valuable to creators. \n</p><p>Now since your channel is new you might not be featured yet in YouTube recommendations and so you might not get those views or subscribers even though your channel have great and original contents in them. So you might be tempted to engage in other types of strategies like “sub4sub” or “view4view”. But your monetization application could be denied if your channel shows any signs of engaging in “sub4sub” or “view4view” strategies. “sub4sub” or “view4view” is a strategy which people uses when they went in the comment section and asks people to sub their channels in exchange for a sub back or asks people to view their videos for a view back. This strategy doesn’t work anymore as YouTube has identified these comments as spam and therefore will be likely deleted and another reasons is that there is no guaranteed that you will get a sub back from the the other person or there is also the issues that once you sub to the other person channel and they subbed your channel back there is no guarantee that they won’t unsub your channel a few days later and in the end you’ll be wasting your time and efforts. So don’t do it.\n</p><p><br></p><p>If you’re having a hard time getting those views and subscribers then you can pay a little money to help you reach those numbers faster. There is a free plan as well but it will take soe time to get those subscribers count and views. This strategy is not the same as “sub4sub” or “view4view” because your not asking people around to subscribe to you or views your videos directly in person, but instead the one who manages the sites will pay random people to do it for you. This strategy doesn’t makes you to subscribe or view other people videos and channels so there is no way to be detected by YouTube Algorithms and your channel is safe. If you’re interested and want to make a one time investment into your future potential passive income then just sign up to this&nbsp;<a href=\"http://gestyy.com/w5mVat\">Get YouTube Subscribers and likes</a> and choose your plans (Free Plan also included) and they’ll help you get those subscribers and views in no time.&nbsp;</p><p><br></p><p> \n</p><p>But if you want to do it the old fashion ways and advertise your channel everywhere then that’s up to you. YouTube is a search engine, just like Google, so sure, there are ways to improve your visibility, but if you do anything to game the system, YouTube’s advanced algorithm will catch it and penalize your channel. Engaging in shady YouTube tactics is a risky move and a waste of your time. Trust your creative instincts and focus your efforts on producing content that you love, and you’ll get the subscribers you deserve.\n</p><p>\n</p><p>Prep Your Channel for Monetization</p><p><br></p><p>\n</p><p>Before you hit the “Enable” button to monetize your channel, there are a few things you can do to make sure that your channel has the best possible chance of getting approved for monetization. It can take up to 30 days for YouTube to review your channel, and you have to wait an additional 30 days to apply if your application is denied, so don’t take any chances—you want revenue to start coming in as soon as possible.\n</p><p>One of the most common reasons that YouTube doesn’t approve monetization applications is duplication. (By the way, if your application is denied, YouTube will provide a reason on your monetization page, but the explanations can be a little vague). Now let’s talk about how to avoid this issue.</p><p><br></p><p>\n</p><p>When using stock footage and audio, just make sure that you have all of the right licenses in place. This is actually very easy because each purchase of stock footage and audio from Storyblocks comes with a license that you can download at any time. It’s important to know where to have and understand these licenses even if you’re not monetizing your channel.\n</p><p><br></p><p>And while you wait for YouTube to finish reviewing your channel what you can do is continue to hustle during this waiting period. Keep posting regularly (the YouTube algorithm rewards channels that post consistently), make sure you’re still focusing on SEO, and remain engaged with your audience. If you allow your channel to lag during this time, it could really hurt you in the long run. Your channel can always benefit from additional subscribers and watch time—both of which can open up new revenue streams in addition to monetization.\n</p><p>&nbsp;\n</p><p>\n</p><p>\n</p><p><br></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-1y"
-        },
-        {
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "socialFacebook": true,
-            "postsNumber": 5,
-            "socialGoogle": false,
-            "socialDisqus": false,
-            "shortName": "",
-            "bgColorRadio": true,
-            "bgColor": "#c1c1c1",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
-            "overlay": true,
-            "overlayColor": "#7e9b9f",
-            "overlayOpacity": 0.6
-          },
-          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
-          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
-          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>",
-          "alias": "facebook-comments",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "facebook-comments-block",
-          "_anchor": "facebook-comments-block-21"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5,
-            "facebook": true,
-            "twitter": true,
-            "google": true,
-            "vkontakte": false,
-            "odnoklassniki": false
-          },
-          "text": "SHARE THIS PAGE!",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons1",
-          "_anchor": "social-buttons1-22"
-        },
-        {
           "_inherit": "menu",
           "_params": {
             "logo": true,
@@ -2060,7 +1989,92 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KHLOTS</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-23"
+          "_anchor": "ext_menu-1r"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "7",
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "title": "How to get YouTube subscribers and Views Fast to start Monetizing your Channel\n<div>\n</div>",
+          "meta": "&nbsp;October 29, 2019",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1x"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><span style=\"font-size: 1.07rem;\">We all know that YouTube pays you money (It’s why Youtubers makes an effort to get you to like their videos and subscribe to their channel). YouTube pays you from the ads that are displayed on your videos uploaded to your YouTube Channels, but only if you sign-up for their monetization partnership first. Below is a step by step instruction to help you get started and monetize your YouTube Channel. But before you are accepted into the partnership program your channel first needs to be verified by YouTube and your channel needs to first gain at least 1000 subscribers and 4000+ hours in watch times. Once you reached those numbers YouTube will review your channel (usually takes around 30 days) and then it will start placing ads on your YouTube videos and you’ll start earning some moneys for life.</span><br></p><p>\n</p><p><br></p><p><b>Right, so now the first step is to turn on or Enable monetization on your channel.\n</b></p><p>\n</p><p><br></p><p><b>4 Steps To Enable Monetization on YouTube\n</b></p><p>You first need to sign-in to YouTube with your verified google account, then you’ll need to upload at least one video. Then follow the steps below to enable monetization for your channel.\n</p><p>1.\tClick on My Channel in the drop down after you click on your icon in the top right corner of the screen.\n</p><p>2.\tFrom this screen, click on YouTube Studio (beta)\n</p><p>3.\tOnce you’re in YouTube Studio, find the Channel menu on left-hand side of your screen, and click on Other Features &gt; Monetization.\n</p><p>4.\tFinally, in the Monetization window, click Start.\n</p><p><br></p><p>Once you’ve done this, you’ve accepted the YouTube Partner Program terms. You just have to sign up for AdSense or connect an existing account. If you don’t have an AdSense account yet don’t worry you will be automatically redirected by YouTube to the AdSense website where you can sign-up and at the same time link your YouTube channel with your AdSense. AdSense is what ultimately allows your channel to earn money. YouTube will then prompt you to set your monetization preferences. Don’t worry too much about this step—you can change your monetization preferences later and customize it so that you’re only monetizing certain videos. \n</p><p>\n</p><p><br></p><p>Now the next step to earning money from YouTube is to Qualify your channel.\n</p><p><br></p><p><b>Qualifying for YouTube Monetization\n</b></p><p>First, to qualify for monetization, your channel has to have at least 4,000 hours of watch time within the last year and at least 1,000 subscribers. This policy went into effect at the beginning of 2018 and is another way for YouTube to prioritize watch time (as opposed to view count, which was the platform’s previous focus). “Watch time” is the total number of hours users have spent watching your channel’s videos. Since YouTube ultimately wants to keep users on the platform for as long as possible, watch time has become more and more valuable to creators. \n</p><p>Now since your channel is new you might not be featured yet in YouTube recommendations and so you might not get those views or subscribers even though your channel have great and original contents in them. So you might be tempted to engage in other types of strategies like “sub4sub” or “view4view”. But your monetization application could be denied if your channel shows any signs of engaging in “sub4sub” or “view4view” strategies. “sub4sub” or “view4view” is a strategy which people uses when they went in the comment section and asks people to sub their channels in exchange for a sub back or asks people to view their videos for a view back. This strategy doesn’t work anymore as YouTube has identified these comments as spam and therefore will be likely deleted and another reasons is that there is no guaranteed that you will get a sub back from the the other person or there is also the issues that once you sub to the other person channel and they subbed your channel back there is no guarantee that they won’t unsub your channel a few days later and in the end you’ll be wasting your time and efforts. So don’t do it.\n</p><p><br></p><p>If you’re having a hard time getting those views and subscribers then you can pay a little money to help you reach those numbers faster. There is a free plan as well but it will take soe time to get those subscribers count and views. This strategy is not the same as “sub4sub” or “view4view” because your not asking people around to subscribe to you or views your videos directly in person, but instead the one who manages the sites will pay random people to do it for you. This strategy doesn’t makes you to subscribe or view other people videos and channels so there is no way to be detected by YouTube Algorithms and your channel is safe. If you’re interested and want to make a one time investment into your future potential passive income then just sign up to this&nbsp;<a href=\"http://gestyy.com/w5mVat\">Get YouTube Subscribers and likes</a> and choose your plans (Free Plan also included) and they’ll help you get those subscribers and views in no time.&nbsp;</p><p><br></p><p> \n</p><p>But if you want to do it the old fashion ways and advertise your channel everywhere then that’s up to you. YouTube is a search engine, just like Google, so sure, there are ways to improve your visibility, but if you do anything to game the system, YouTube’s advanced algorithm will catch it and penalize your channel. Engaging in shady YouTube tactics is a risky move and a waste of your time. Trust your creative instincts and focus your efforts on producing content that you love, and you’ll get the subscribers you deserve.\n</p><p>\n</p><p>Prep Your Channel for Monetization</p><p><br></p><p>\n</p><p>Before you hit the “Enable” button to monetize your channel, there are a few things you can do to make sure that your channel has the best possible chance of getting approved for monetization. It can take up to 30 days for YouTube to review your channel, and you have to wait an additional 30 days to apply if your application is denied, so don’t take any chances—you want revenue to start coming in as soon as possible.\n</p><p>One of the most common reasons that YouTube doesn’t approve monetization applications is duplication. (By the way, if your application is denied, YouTube will provide a reason on your monetization page, but the explanations can be a little vague). Now let’s talk about how to avoid this issue.</p><p><br></p><p>\n</p><p>When using stock footage and audio, just make sure that you have all of the right licenses in place. This is actually very easy because each purchase of stock footage and audio from Storyblocks comes with a license that you can download at any time. It’s important to know where to have and understand these licenses even if you’re not monetizing your channel.\n</p><p><br></p><p>And while you wait for YouTube to finish reviewing your channel what you can do is continue to hustle during this waiting period. Keep posting regularly (the YouTube algorithm rewards channels that post consistently), make sure you’re still focusing on SEO, and remain engaged with your audience. If you allow your channel to lag during this time, it could really hurt you in the long run. Your channel can always benefit from additional subscribers and watch time—both of which can open up new revenue streams in addition to monetization.\n</p><p>&nbsp;\n</p><p>\n</p><p>\n</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1y"
+        },
+        {
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "socialFacebook": true,
+            "postsNumber": 5,
+            "socialGoogle": false,
+            "socialDisqus": false,
+            "shortName": "",
+            "bgColorRadio": true,
+            "bgColor": "#c1c1c1",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>",
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-21"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-22"
         },
         {
           "_params": {
