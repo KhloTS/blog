@@ -318,7 +318,11 @@
             "transparent": false,
             "bgColor": "#000000",
             "fontSize": 0.75,
-            "fontName": {},
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
@@ -480,7 +484,11 @@
             "transparent": false,
             "bgColor": "#000000",
             "fontSize": 0.75,
-            "fontName": {},
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
@@ -740,7 +748,11 @@
             "transparent": false,
             "bgColor": "#000000",
             "fontSize": 0.75,
-            "fontName": {},
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
@@ -1026,7 +1038,11 @@
             "transparent": false,
             "bgColor": "#000000",
             "fontSize": 0.75,
-            "fontName": {},
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
@@ -1312,7 +1328,11 @@
             "transparent": false,
             "bgColor": "#000000",
             "fontSize": 0.75,
-            "fontName": {},
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
@@ -1513,7 +1533,11 @@
             "transparent": false,
             "bgColor": "#000000",
             "fontSize": 0.75,
-            "fontName": {},
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
@@ -1684,7 +1708,11 @@
             "transparent": false,
             "bgColor": "#000000",
             "fontSize": 0.75,
-            "fontName": {},
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
@@ -1947,7 +1975,11 @@
             "transparent": false,
             "bgColor": "#000000",
             "fontSize": 0.75,
-            "fontName": {},
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
@@ -1969,7 +2001,9 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
             },
             ".link": {
               "font-size": "0.75rem"
