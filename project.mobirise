@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "khasi presbyterian hymn book apk.html",
+    "currentPage": "index.html",
     "versionFirst": "3.5.1",
     "versionPublish": "4.11.2",
     "name": "Blog-Template",
@@ -42,7 +42,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "KhloTS",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
