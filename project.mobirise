@@ -8,7 +8,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#0f04da",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -17,13 +17,14 @@
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
       },
       "additionalSetColors": [
-        "#2e2e2e"
+        "#2e2e2e",
+        "#0f04da"
       ]
     },
     "scrollAnimation": "true",
@@ -36,7 +37,7 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
-    "uniqCompNum": 83
+    "uniqCompNum": 85
   },
   "pages": {
     "index.html": {
@@ -213,6 +214,29 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#0f04da"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Ka Kot JIngrwai Khasi App Free Download",
+          "meta": "<b><a href=\"https://www.file-upload.com/2mvu63k24vxw\">DOWNLOAD&nbsp;</a></b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2c"
+        },
+        {
           "_params": {
             "paddingTop": 0,
             "paddingBottom": 0,
@@ -299,13 +323,18 @@
             }
           },
           "text1": "Copyright ⓒ 2019 KHLO TS All Rights Reserved.<br>",
-          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"privacy policy.html\" target=\"_blank\">Privacy Policy</a></b></span></font>",
+          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>&nbsp;<a href=\"privacy policy.html\" target=\"_blank\">Privacy Policy</a></b></span></font>",
           "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"page5.html\" target=\"_blank\">Disclaimer</a></b></span></font>",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-18"
+          "_anchor": "contacts1-18",
+          "_styles": {
+            "SPAN": {
+              "font-size": "30px"
+            }
+          }
         },
         {
           "_inherit": "menu",
@@ -377,7 +406,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#0f04da!important"
             }
           },
           "logo": {
@@ -602,13 +631,18 @@
             }
           },
           "text1": "Copyright ⓒ 2019 KHLO TS All Rights Reserved.<br>",
-          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"privacy policy.html\" target=\"_blank\">Privacy Policy</a></b></span></font>",
+          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>&nbsp;<a href=\"privacy policy.html\" target=\"_blank\">Privacy Policy</a></b></span></font>",
           "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"page5.html\" target=\"_blank\">Disclaimer</a></b></span></font>",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-1f"
+          "_anchor": "contacts1-1f",
+          "_styles": {
+            "SPAN": {
+              "font-size": "30px"
+            }
+          }
         }
       ]
     },
@@ -868,13 +902,18 @@
             }
           },
           "text1": "Copyright ⓒ 2019 KHLO TS All Rights Reserved.<br>",
-          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"privacy policy.html\" target=\"_blank\">Privacy Policy</a></b></span></font>",
+          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>&nbsp;<a href=\"privacy policy.html\" target=\"_blank\">Privacy Policy</a></b></span></font>",
           "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"page5.html\" target=\"_blank\">Disclaimer</a></b></span></font>",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-18"
+          "_anchor": "contacts1-18",
+          "_styles": {
+            "SPAN": {
+              "font-size": "30px"
+            }
+          }
         }
       ]
     },
@@ -1160,13 +1199,18 @@
             }
           },
           "text1": "Copyright ⓒ 2019 KHLO TS All Rights Reserved.<br>",
-          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"privacy policy.html\" target=\"_blank\">Privacy Policy</a></b></span></font>",
+          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>&nbsp;<a href=\"privacy policy.html\" target=\"_blank\">Privacy Policy</a></b></span></font>",
           "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"page5.html\" target=\"_blank\">Disclaimer</a></b></span></font>",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-18"
+          "_anchor": "contacts1-18",
+          "_styles": {
+            "SPAN": {
+              "font-size": "30px"
+            }
+          }
         }
       ]
     },
@@ -1452,13 +1496,18 @@
             }
           },
           "text1": "Copyright ⓒ 2019 KHLO TS All Rights Reserved.<br>",
-          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"privacy policy.html\" target=\"_blank\">Privacy Policy</a></b></span></font>",
+          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>&nbsp;<a href=\"privacy policy.html\" target=\"_blank\">Privacy Policy</a></b></span></font>",
           "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"page5.html\" target=\"_blank\">Disclaimer</a></b></span></font>",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-18"
+          "_anchor": "contacts1-18",
+          "_styles": {
+            "SPAN": {
+              "font-size": "30px"
+            }
+          }
         }
       ]
     },
@@ -1659,13 +1708,18 @@
             }
           },
           "text1": "Copyright ⓒ 2019 KHLO TS All Rights Reserved.<br>",
-          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"privacy policy.html\" target=\"_blank\">Privacy Policy</a></b></span></font>",
+          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>&nbsp;<a href=\"privacy policy.html\" target=\"_blank\">Privacy Policy</a></b></span></font>",
           "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"page5.html\" target=\"_blank\">Disclaimer</a></b></span></font>",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-1k"
+          "_anchor": "contacts1-1k",
+          "_styles": {
+            "SPAN": {
+              "font-size": "30px"
+            }
+          }
         }
       ]
     },
@@ -1876,13 +1930,18 @@
             }
           },
           "text1": "Copyright ⓒ 2019 KHLO TS All Rights Reserved.<br>",
-          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"privacy policy.html\" target=\"_blank\">Privacy Policy</a></b></span></font>",
+          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>&nbsp;<a href=\"privacy policy.html\" target=\"_blank\">Privacy Policy</a></b></span></font>",
           "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"page5.html\" target=\"_blank\">Disclaimer</a></b></span></font>",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-1s"
+          "_anchor": "contacts1-1s",
+          "_styles": {
+            "SPAN": {
+              "font-size": "30px"
+            }
+          }
         }
       ]
     },
@@ -2105,13 +2164,18 @@
             }
           },
           "text1": "Copyright ⓒ 2019 KHLO TS All Rights Reserved.<br>",
-          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"privacy policy.html\" target=\"_blank\">Privacy Policy</a></b></span></font>",
+          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>&nbsp;<a href=\"privacy policy.html\" target=\"_blank\">Privacy Policy</a></b></span></font>",
           "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"page5.html\" target=\"_blank\">Disclaimer</a></b></span></font>",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-24"
+          "_anchor": "contacts1-24",
+          "_styles": {
+            "SPAN": {
+              "font-size": "30px"
+            }
+          }
         }
       ]
     },
@@ -2147,13 +2211,37 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "khasi presbyterian hymn book apk",
+          "title": "Khasi Presbyterian Hymn Book apk/ Ka Kot Jingrwai Khasi app",
           "meta": "",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
           "_anchor": "header3-26"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screenshot-2019-10-31-18-55-37-841-com.synod.kakotjingrwai-1080x1920.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "<p>Cut down the development time with drag-and-drop website builder.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-2b"
         },
         {
           "_inherit": "menu",
@@ -2225,7 +2313,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#0f04da!important"
             }
           },
           "logo": {
@@ -2259,12 +2347,18 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<a href=\"http://gestyy.com/w5WdSK\" target=\"_blank\">Download file here&nbsp;</a>",
+          "text": "<p><a href=\"https://www.file-upload.com/2mvu63k24vxw\" target=\"_blank\">&nbsp;DOWNLOAD</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-28"
+          "_anchor": "content1-28",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "72px"
+            }
+          }
         },
         {
           "_params": {
@@ -2322,13 +2416,18 @@
             }
           },
           "text1": "Copyright ⓒ 2019 KHLO TS All Rights Reserved.<br>",
-          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"privacy policy.html\" target=\"_blank\">Privacy Policy</a></b></span></font>",
+          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>&nbsp;<a href=\"privacy policy.html\" target=\"_blank\">Privacy Policy</a></b></span></font>",
           "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"page5.html\" target=\"_blank\">Disclaimer</a></b></span></font>",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-2a"
+          "_anchor": "contacts1-2a",
+          "_styles": {
+            "SPAN": {
+              "font-size": "30px"
+            }
+          }
         }
       ]
     }
