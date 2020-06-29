@@ -37,7 +37,7 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
-    "uniqCompNum": 85
+    "uniqCompNum": 91
   },
   "pages": {
     "index.html": {
@@ -100,7 +100,7 @@
             }
           },
           "title": "Welcome To My Blog",
-          "text": "I WANT TO SHARE SOME WAYS AND SITES TO EARN SOME MONEY ONLINE AND I WANTED TO GIVE OUT SOME TIPS AND TRICKS TO HELP MAKE MONEY FROM SOME POPULAR SITES. IF YOU HAVE SOME WAYS THAT I HAVEN'T MENTIONED YET, LET ME KNOW IN THE COMMENTS SECTION.",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -114,7 +114,7 @@
             "showButtons": true,
             "paddingTop": 2,
             "paddingBottom": 2,
-            "columns": "4",
+            "columns": "5",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
@@ -140,7 +140,7 @@
             }
           },
           "title1": "LEGIT ONLINE JOB WITH reCapthcha SOLVING.",
-          "subtitle1": "22 October 2019",
+          "subtitle1": "22 June 2020",
           "caption1": "If you are looking for online jobs there are plenty of opportunities out there, but depending on your location i.e. in a rural village or some third world countries then you may be limited to a few options as online survey sites mostly doesn't have surveys for you or if there are....",
           "button1": "<a data-app-btn=\"true\" href=\"LEGIT ONLINE JOB WITH reCapthcha SOLVING..html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Read More..</a> ",
           "media2": {
@@ -155,7 +155,7 @@
             }
           },
           "title2": "LEGIT ONLINE JOB SITES THAT ACCEPTS WORKERS GLOBALLY.",
-          "subtitle2": "23 October 2019",
+          "subtitle2": "23 June 2020",
           "caption2": "The internet can be a wonderful place to make some money but it is also filled with people trying to scam you while you get nothing in return and another problem of looking for online jobs is that most aren't available for your regions like survey sites or you might not be eligible to even sign-up because the website doesn't support your country...",
           "button2": "<a data-app-btn=\"true\" href=\"LEGIT WAYS TO EARN MONEY ONLINE.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Read More...</a>",
           "media3": {
@@ -170,7 +170,7 @@
             }
           },
           "title3": "HOW TO MAXIMIZE YOUR EARNINGS ON KOLOTIBABLO |TIPS &amp; TRICKS",
-          "subtitle3": "24 October 2019",
+          "subtitle3": "24 June 2020",
           "caption3": "If you are one of the many people who have been searching for a job online and just so happen to stumble on reCaptcha solving then you might want to know what it is? and is it a scam? and how to maximize your earnins?. In this article we will see how to maximize your earnings in Kolotibablo...",
           "button3": "<a data-app-btn=\"true\" href=\"HOW TO MAXIMIZE YOUR EARNINGS ON KOLOTIBABLO .html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Read More...</a>",
           "media4": {
@@ -185,21 +185,24 @@
             }
           },
           "title4": "How to get YouTube subscribers and Views Fast to start Monetizing your Channel",
-          "subtitle4": "29 October 2019",
+          "subtitle4": "29 June 2020",
           "caption4": "We all know that YouTube pays you money (It’s why Youtubers makes an effort to get you to like their videos and subscribe to their channel). YouTube pays you from the ads that are displayed on your videos uploaded to your YouTube Channels, but only if you sign-up for their monetization partners....",
           "button4": "<a data-app-btn=\"true\" href=\"How to get YouTube subscribers and Views Fast to start Monetizing your Channel.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Read More...</a>",
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/download-259x194.jpeg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "title5": "YouTube Copyright Infringement Solved For Beginners",
+          "subtitle5": "June 2020",
+          "caption5": "Choose from the large selection of latest pre-made music track and audio for your new project and solved your pesky copyright issues with youtube....",
+          "button5": "<a data-app-btn=\"true\" href=\"YouTube Copyright Infringement Solved For Beginners.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Read More...</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
@@ -322,7 +325,7 @@
               "size": 0
             }
           },
-          "text1": "Copyright ⓒ 2019 KHLO TS All Rights Reserved.<br>",
+          "text1": "Copyright ⓒ 2020 KHLO TS All Rights Reserved.<br>",
           "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>&nbsp;<a href=\"privacy policy.html\" target=\"_blank\">Privacy Policy</a></b></span></font>",
           "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"page5.html\" target=\"_blank\">Disclaimer</a></b></span></font>",
           "_tags": [
@@ -355,7 +358,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Help.html\">HELP</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Help.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.file-upload.com/2mvu63k24vxw\">KJP Hymn Book</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"http://gestyy.com/w5WdSK\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Help.html\">HELP</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Help.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.file-upload.com/2mvu63k24vxw\" target=\"_blank\">KJP Hymn Book</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"http://gestyy.com/w5WdSK\">DOWNLOAD</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -523,7 +526,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Help.html\">HELP</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Help.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.file-upload.com/2mvu63k24vxw\">KJP Hymn Book</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"http://gestyy.com/w5WdSK\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Help.html\">HELP</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Help.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.file-upload.com/2mvu63k24vxw\" target=\"_blank\">KJP Hymn Book</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"http://gestyy.com/w5WdSK\">DOWNLOAD</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -574,7 +577,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#0f04da!important"
             }
           },
           "logo": {
@@ -630,7 +633,7 @@
               "size": 0
             }
           },
-          "text1": "Copyright ⓒ 2019 KHLO TS All Rights Reserved.<br>",
+          "text1": "Copyright ⓒ 2020 KHLO TS All Rights Reserved.<br>",
           "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>&nbsp;<a href=\"privacy policy.html\" target=\"_blank\">Privacy Policy</a></b></span></font>",
           "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"page5.html\" target=\"_blank\">Disclaimer</a></b></span></font>",
           "_tags": [
@@ -794,7 +797,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Help.html\">HELP</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Help.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.file-upload.com/2mvu63k24vxw\">KJP Hymn Book</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"http://gestyy.com/w5WdSK\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Help.html\">HELP</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Help.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.file-upload.com/2mvu63k24vxw\" target=\"_blank\">KJP Hymn Book</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"http://gestyy.com/w5WdSK\">DOWNLOAD</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -845,7 +848,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#0f04da!important"
             }
           },
           "logo": {
@@ -901,7 +904,7 @@
               "size": 0
             }
           },
-          "text1": "Copyright ⓒ 2019 KHLO TS All Rights Reserved.<br>",
+          "text1": "Copyright ⓒ 2020 KHLO TS All Rights Reserved.<br>",
           "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>&nbsp;<a href=\"privacy policy.html\" target=\"_blank\">Privacy Policy</a></b></span></font>",
           "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"page5.html\" target=\"_blank\">Disclaimer</a></b></span></font>",
           "_tags": [
@@ -1091,7 +1094,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Help.html\">HELP</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Help.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.file-upload.com/2mvu63k24vxw\">KJP Hymn Book</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"http://gestyy.com/w5WdSK\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Help.html\">HELP</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Help.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.file-upload.com/2mvu63k24vxw\" target=\"_blank\">KJP Hymn Book</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"http://gestyy.com/w5WdSK\">DOWNLOAD</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1142,7 +1145,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#0f04da!important"
             }
           },
           "logo": {
@@ -1198,7 +1201,7 @@
               "size": 0
             }
           },
-          "text1": "Copyright ⓒ 2019 KHLO TS All Rights Reserved.<br>",
+          "text1": "Copyright ⓒ 2020 KHLO TS All Rights Reserved.<br>",
           "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>&nbsp;<a href=\"privacy policy.html\" target=\"_blank\">Privacy Policy</a></b></span></font>",
           "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"page5.html\" target=\"_blank\">Disclaimer</a></b></span></font>",
           "_tags": [
@@ -1388,7 +1391,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Help.html\">HELP</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Help.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.file-upload.com/2mvu63k24vxw\">KJP Hymn Book</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"http://gestyy.com/w5WdSK\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Help.html\">HELP</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Help.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.file-upload.com/2mvu63k24vxw\" target=\"_blank\">KJP Hymn Book</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"http://gestyy.com/w5WdSK\">DOWNLOAD</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1439,7 +1442,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#0f04da!important"
             }
           },
           "logo": {
@@ -1495,7 +1498,7 @@
               "size": 0
             }
           },
-          "text1": "Copyright ⓒ 2019 KHLO TS All Rights Reserved.<br>",
+          "text1": "Copyright ⓒ 2020 KHLO TS All Rights Reserved.<br>",
           "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>&nbsp;<a href=\"privacy policy.html\" target=\"_blank\">Privacy Policy</a></b></span></font>",
           "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"page5.html\" target=\"_blank\">Disclaimer</a></b></span></font>",
           "_tags": [
@@ -1503,218 +1506,6 @@
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-18",
-          "_styles": {
-            "SPAN": {
-              "font-size": "30px"
-            }
-          }
-        }
-      ]
-    },
-    "page5.html": {
-      "settings": {
-        "meta_descr": "Privacy Policy\nAt Bloggerspassion.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit Bloggerspassion.com, and how we safeguard your information. We never sell your personal information to third parties.\n\nLog Files\n\nAs with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.\n\nCookies and Web Beacons\n\nWe do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.\n\nAffiliate Disclosure Policy\n\nThere is some cost involved in running this blog which includes hosting, design, paid tools and content services etc. To cover all these costs, from time to time, I used to place some affiliate links in my blog contents. It means I will earn a small commission when you buy a product using my affiliate link without any additional cost to you.\n\n",
-        "title": "Disclaimer",
-        "order": 2
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "7",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "Disclaimer",
-          "meta": "&nbsp;October 22, 2019",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1g"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Disclaimer\n</p><p>Khlots.github.io/blog is my personal blog where I blogs about topics related to make money online, blogging tips, seo tips, social media networks, popular affiliate programs, CMS like Mobirise, web hosting etc. I cannot give any kind of assurance about the accuracy, completeness and quality of the content I’m providing. If you are using any of the content provided here, you are using that at your own risk. </p><p><br></p><p>You cannot blame me for that.</p><p><br></p><p>\n</p><p>\n</p><p>All content on Khlots.github.io/blog may not bring lots of money for me. I may make money online from my blog doing product sales, website referrals, advertisements or reviews etc. Each and every post published on Khlots.github.io/blog is my personal opinion about a particular product or service and the product or services that are making me money online and it may or may not work for others.</p><p><br></p><p>\n</p><p>\n</p><p>Email addresses that are captured in various sections of blogs will always be used for privacy and will never be used for spamming. You can get emails around certain products or services from me if you had shown interest for the same.</p><p></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "content1-1h"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#c1c1c1",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5,
-            "facebook": true,
-            "twitter": true,
-            "google": true,
-            "vkontakte": false,
-            "odnoklassniki": false
-          },
-          "text": "SHARE THIS PAGE!",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons1",
-          "_anchor": "social-buttons1-1i"
-        },
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": false,
-            "bgColor": "#000000",
-            "fontSize": 0.75,
-            "fontName": {
-              "name": "Lato",
-              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "css": "'Lato', sans-serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Help.html\">HELP</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Help.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.file-upload.com/2mvu63k24vxw\">KJP Hymn Book</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"http://gestyy.com/w5WdSK\">DOWNLOAD</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-family": "'Lato', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screenshot-3-140x110.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "index.html",
-              "size": 0,
-              "linkInNewWindow": false,
-              "name": "mobirise",
-              "family": "MobiriseIcons",
-              "newWindow": false,
-              "active": true
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KHLOTS</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-1j"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/screenshot-2-128x101.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "Copyright ⓒ 2019 KHLO TS All Rights Reserved.<br>",
-          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>&nbsp;<a href=\"privacy policy.html\" target=\"_blank\">Privacy Policy</a></b></span></font>",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"page5.html\" target=\"_blank\">Disclaimer</a></b></span></font>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-1k",
           "_styles": {
             "SPAN": {
               "font-size": "30px"
@@ -1782,7 +1573,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Help.html\">HELP</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Help.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.file-upload.com/2mvu63k24vxw\">KJP Hymn Book</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"http://gestyy.com/w5WdSK\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Help.html\">HELP</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Help.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.file-upload.com/2mvu63k24vxw\" target=\"_blank\">KJP Hymn Book</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"http://gestyy.com/w5WdSK\">DOWNLOAD</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1833,7 +1624,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#0f04da!important"
             }
           },
           "logo": {
@@ -1929,7 +1720,7 @@
               "size": 0
             }
           },
-          "text1": "Copyright ⓒ 2019 KHLO TS All Rights Reserved.<br>",
+          "text1": "Copyright ⓒ 2020 KHLO TS All Rights Reserved.<br>",
           "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>&nbsp;<a href=\"privacy policy.html\" target=\"_blank\">Privacy Policy</a></b></span></font>",
           "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"page5.html\" target=\"_blank\">Disclaimer</a></b></span></font>",
           "_tags": [
@@ -1971,7 +1762,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Help.html\">HELP</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Help.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.file-upload.com/2mvu63k24vxw\">KJP Hymn Book</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"http://gestyy.com/w5WdSK\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Help.html\">HELP</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Help.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.file-upload.com/2mvu63k24vxw\" target=\"_blank\">KJP Hymn Book</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"http://gestyy.com/w5WdSK\">DOWNLOAD</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2022,7 +1813,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#0f04da!important"
             }
           },
           "logo": {
@@ -2163,7 +1954,7 @@
               "size": 0
             }
           },
-          "text1": "Copyright ⓒ 2019 KHLO TS All Rights Reserved.<br>",
+          "text1": "Copyright ⓒ 2020 KHLO TS All Rights Reserved.<br>",
           "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>&nbsp;<a href=\"privacy policy.html\" target=\"_blank\">Privacy Policy</a></b></span></font>",
           "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"page5.html\" target=\"_blank\">Disclaimer</a></b></span></font>",
           "_tags": [
@@ -2262,7 +2053,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Help.html\">HELP</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Help.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.file-upload.com/2mvu63k24vxw\">KJP Hymn Book</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"http://gestyy.com/w5WdSK\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Help.html\">HELP</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Help.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.file-upload.com/2mvu63k24vxw\" target=\"_blank\">KJP Hymn Book</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"http://gestyy.com/w5WdSK\">DOWNLOAD</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2415,7 +2206,7 @@
               "size": 0
             }
           },
-          "text1": "Copyright ⓒ 2019 KHLO TS All Rights Reserved.<br>",
+          "text1": "Copyright ⓒ 2020 KHLO TS All Rights Reserved.<br>",
           "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>&nbsp;<a href=\"privacy policy.html\" target=\"_blank\">Privacy Policy</a></b></span></font>",
           "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"page5.html\" target=\"_blank\">Disclaimer</a></b></span></font>",
           "_tags": [
@@ -2423,6 +2214,459 @@
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-2a",
+          "_styles": {
+            "SPAN": {
+              "font-size": "30px"
+            }
+          }
+        }
+      ]
+    },
+    "YouTube Copyright Infringement Solved For Beginners.html": {
+      "settings": {
+        "meta_descr": "Get YouTube Subscribers and Views to help you get started in earning money from your YouTube videos.",
+        "title": "YouTube Copyright Infringement Solved For Beginners",
+        "order": 9
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Help.html\">HELP</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Help.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.file-upload.com/2mvu63k24vxw\" target=\"_blank\">KJP Hymn Book</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"http://gestyy.com/w5WdSK\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#0f04da!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/screenshot-3-140x110.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "index.html",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KHLOTS</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2d"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000",
+              "text-align": "center",
+              "font-size": "22px",
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "7",
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "title": "<div>\n</div>",
+          "meta": "<span style=\"font-style: normal;\"><b>YouTube Copyright Infringement Solved For Beginners</b></span><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2e"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Hello guys, today I'm going to give a few pointers for the new youtubers out there who has some good content but don't know what to look out for. For instance anybody who started their youtube experience has one or the other time experience the \"Copyright infringement\" warning from youtube, and that is what we are going to be talking about today.</p><p><br></p><p>Copyright Infringement warning from youtube means that you have used materials in your video content that doesn't belong to you like for example the most common material used is music tracks or audio tracks, which you might have incorporated into your videos because it makes the video more interesting and complete. Mainstream music and other popular music cannot be used in videos on youtube if it isn't your own creation and to used it, you must first required copyright privileges to those musics or tracks from the original owners and creators.</p><p><br></p><p>If you unknowingly used such kind of musics or audio tracks without copyright privileges and then you posted it on youtube, then youtube will issue a copyright strike against your videos with some punishments ranging from inability to monetized the said video to getting it taken down by Youtube. A couple more of these strikes will lead to suspension of your Youtube channel.</p><p><br></p><p>If you have been sent a \"copyright Infringement\" warning on any of your videos then there are a few options which you can take to resolve it.</p><p>1) You can delete the video yourself from your youtube channel.</p><p>2) You can remove the materials that are causing the copyright Infringement in this case removing the audio or music tracks and your video is left without any sound.</p><p>3) You can replace the audio or music track from the video with a replacement audio from youtube music library. (but if you have listen to any of these audio track you will know that they are very bland and boring)</p><p>Note: You cannot replace the audio track of the video with another one from your own personal library. You need to that in your video maker software or app first and then re-upload the new video as brand new, losing all the views and likes in the process)</p><p><br></p><p>So if you still want to put music on your videos and not have to worry about the pesky copyright problems then you can do a few things to avoid it.</p><p>You can either create your own music and tracks (if you have the time and talent), or you do a cover of the songs you want to use, or you can use a no copyright songs.&nbsp;</p><p><br></p><p>Here, the third option of using the no copyright songs is what I want to talk about. No copyright songs are like any other music tracks with vocals and music track but like the name suggests there is no copyright strike if you used it on your videos. You just have to choose the music you like and download it and use it just like that and you can save a lot more time.</p><p><br></p><p>Check the channel below to get a selection of the music you want to use for your projects:</p><p><a href=\"https://www.youtube.com/channel/UCHSOaOCSvBY4AW8JbfhHj0g\" target=\"_blank\">https://www.youtube.com/channel/UCHSOaOCSvBY4AW8JbfhHj0g</a></p><p><br></p><p><br></p><p>NCS || No Copyright Sounds || Background Music || Soundtrack || Compilation Music || YouTube Music || Make Money 2020 || Copyright Strike</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2f"
+        },
+        {
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "socialFacebook": true,
+            "postsNumber": 5,
+            "socialGoogle": false,
+            "socialDisqus": false,
+            "shortName": "",
+            "bgColorRadio": true,
+            "bgColor": "#c1c1c1",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>",
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-2g"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-2h"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screenshot-2-128x101.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Copyright ⓒ 2020 KHLO TS All Rights Reserved.<br>",
+          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>&nbsp;<a href=\"privacy policy.html\" target=\"_blank\">Privacy Policy</a></b></span></font>",
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"page5.html\" target=\"_blank\">Disclaimer</a></b></span></font>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "SPAN": {
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "contacts1-2i"
+        }
+      ]
+    },
+    "Disclaimer.html": {
+      "settings": {
+        "meta_descr": "Privacy Policy\nAt Bloggerspassion.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit Bloggerspassion.com, and how we safeguard your information. We never sell your personal information to third parties.\n\nLog Files\n\nAs with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.\n\nCookies and Web Beacons\n\nWe do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.\n\nAffiliate Disclosure Policy\n\nThere is some cost involved in running this blog which includes hosting, design, paid tools and content services etc. To cover all these costs, from time to time, I used to place some affiliate links in my blog contents. It means I will earn a small commission when you buy a product using my affiliate link without any additional cost to you.\n\n",
+        "title": "Disclaimer",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "7",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Disclaimer",
+          "meta": "&nbsp;October 22, 2019",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1g"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Disclaimer\n</p><p>Khlots.github.io/blog is my personal blog where I blogs about topics related to make money online, blogging tips, seo tips, social media networks, popular affiliate programs, CMS like Mobirise, web hosting etc. I cannot give any kind of assurance about the accuracy, completeness and quality of the content I’m providing. If you are using any of the content provided here, you are using that at your own risk. </p><p><br></p><p>You cannot blame me for that.</p><p><br></p><p>\n</p><p>\n</p><p>All content on Khlots.github.io/blog may not bring lots of money for me. I may make money online from my blog doing product sales, website referrals, advertisements or reviews etc. Each and every post published on Khlots.github.io/blog is my personal opinion about a particular product or service and the product or services that are making me money online and it may or may not work for others.</p><p><br></p><p>\n</p><p>\n</p><p>Email addresses that are captured in various sections of blogs will always be used for privacy and will never be used for spamming. You can get emails around certain products or services from me if you had shown interest for the same.</p><p></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content1-1h"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c1c1c1",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-1i"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Help.html\">HELP</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Help.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DOWNLOAD</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.file-upload.com/2mvu63k24vxw\" target=\"_blank\">KJP Hymn Book</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"http://gestyy.com/w5WdSK\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#0f04da!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/screenshot-3-140x110.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "index.html",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KHLOTS</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1j"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screenshot-2-128x101.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Copyright ⓒ 2020 KHLO TS All Rights Reserved.<br>",
+          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>&nbsp;<a href=\"privacy policy.html\" target=\"_blank\">Privacy Policy</a></b></span></font>",
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b><a href=\"page5.html\" target=\"_blank\">Disclaimer</a></b></span></font>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1k",
           "_styles": {
             "SPAN": {
               "font-size": "30px"
