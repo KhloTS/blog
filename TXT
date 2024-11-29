@@ -1,2 +1,3 @@
 google-site-verification=SW8kp_o0amKupeXZfZWrIjiX0V5CABC9dknRUhO44q8
 
+brave-ledger-verification=29078a2dfaba533e5fd41e295ea6f494ccf9a4c4ebb34d002e49747a2784cbc2
