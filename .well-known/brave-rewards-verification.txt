@@ -1,4 +1,4 @@
 This is a Brave Creators publisher verification file.
 
 Domain: github.com
-Token: 6f41fcf51f76dbfc90279fd904b9466d443229590ad527762b2782ca64f61c5a
+Token: fdfb7a416531f5ba1a9195685341f603f822e53be5d4c391230f40025097b5e1
